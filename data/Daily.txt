@@ -1,0 +1,399 @@
+assume	(verb) to accept something to be true without question or proof:     I assumed that you knew each other because you went to the same school. Let's assume that they're coming and make plans on that basis.
+proclaim	(verb) to announce something publicly or officially, especially something positive:    All the countries have proclaimed their loyalty to the alliance. She was proclaimed Queen at the age of 13 after the sudden death of her father.
+assumption	(noun) something that you accept as true without question or proof:   People tend to make assumptions about you when you have a disability. These calculations are based on the assumption that prices will continue to rise.
+differ	(verb) to be not like something else; to be different:  American English and British English obviously differ in pronunciation.  The twins look alike, but they differ in temperament.
+stain	(verb) to leave a mark on something that is difficult to remove:  Tomato sauce stains terribly - it's really difficult to get it out of clothes.While she was changing the wheel on her car, her coat had become stained with oil. (noun)a dirty mark on something that is difficult to remove:You can remove a red wine stain from a carpet by sprinkling salt over it. a blood/grass stain
+symptom	(noun)   any feeling of illness or physical or mental change that is caused by a particular disease:    He's complaining of all the usual flu symptoms - a high temperature, headache, and so on.   He had all the classic symptoms of the disease. If the symptoms get worse, consult your doctor.
+hectare	(noun)   a unit of measurement of an area of land (10,000 m2)    Farmers plan to earn an extra £30 per hectare by joining a basic environmental scheme.  China produces twice as much rice per hectare as India with the same volume of water.
+adoption	(none) Some developers may prefer npm due to its widespread adoption, while others may prefer Yarn or pnpm for their performance and efficiency.
+merit	(none) Let’s analyze their features: their main functions, merits and demerits
+dispute	(none) For as long as Node has existed, or should we say as long as these package-managers have existed — NPM; Yarn; PNPM — there has been an ongoing dispute in the developer community about which of these is best.
+illustrate	(verb) To illustrate this, we need to create a new project
+reserve	(verb) If something is reserved for a particular person or purpose, it is kept specially for that person or purpose.
+intricate	(adjective) Program become more intricate
+convention	(none) Programming convention
+lengthen	(verb) The optimizations make your Rust code run faster, but turning them on lengthens the time it takes for your program to compile.
+sparse	(adjective) The file is bit sparse
+appropriate	(adjective) Is this film appropriate for children?
+crate	(none) In rust, packages of code are referred to as crates.
+majority	(none) The majority of people or things in a group is more than half of them
+scalar	(none) Scalar and compound type
+compound	(noun) In chemistry, a compound is an enclosed area if land that is used for a particular purpose
+overshadow	(verb) The second variable overshadow the first  one
+anatomy	(none) Let's anatomy the program.
+Vast	(adjective) This is a vast project.
+indent	(verb) First, rust style is to indent with four spaces, not a tab.
+delve	(verb) Later chapter build on concepts in earlier chapters, and earlier chapters might not delve into details on particular topic but will revisit the topic in a later chapter
+contemporary	(adjective) Rust brings contemporary developer tools.
+modulus	(none) From these numbers you can calculate the modulus.
+panic	(adjective) Rust includes checks for integer overflow that cause your program to panic at runtime if this behavior occurs.
+variant	(none) Each variant can be either signed or unsigned and has an explicit size.
+fractional	(adjective) An integer is a number without a fractional component.
+infer	(verb) The compiler can usually infer what type we want to use baesd on the value and how we use it.
+feature	(none) Feat. stands for featuring, and usually, it means a short or guest appearance. A most common example would be a vocalist.
+troll	(none) Depends, do I want my sibling to succeed or do I want to troll her?
+succeed	(none) Depends, do I want my sibling to succeed or do I want to troll her?
+fixed	The tuple length is fixed.
+chase	(verb) By working alongside the complier, the team can spend their time focusing on the program's logic rather than chasing down bugs.
+elusive	(adjective) In rust, the compiler plays a gatekeeper role by refusing to compile code with these elusive bugs.
+prone	(adjective) Low-level code is prone to various subtle bugs.
+hassle	(none) Rust gives you the option to control low-level details (such as memory usage) without all these hassle traditional associated with such control.
+sleigh	(noun) Santa sleigh.
+dabble	I dabble in Vue.js, Nuxt.js and Node.js
+concise	(adjective) Concise code
+innermost	Breakout the innermost loop.
+disambiguate	(verb) To disambiguate output from diff request s.
+prevalent	(adjective) A condition, practice, or belief that is prevalent is common.
+bail	(verb) His son called home to get bailed out of jail.
+tackle	(verb) You can tackle more aggressive optimizations in your code.
+pitfall	(none) Rust breaks down these barriers by eliminating the old pitfall and providing a friendly, polished set of tools to help you along the way.
+punish	(verb) To punish a crime means to punish anyone who commits that crime.
+empowerment	(none) The rust is fundamentally about empowerment.
+polish	(adjective) You can produce a video resume that's professional and polished.
+frustrate	(verb) Rust sovles some of developer's most frustrating memory management problems.
+mascot	(none) Ferris is the unofficial mascot for Rust.
+Vibrant	(adjective) Rust has a vibrant community of developers.
+emphasis	(none) Rust is a system programming language that has gained significant popularity among developers thanks to it's emphasis on safety, performance, and productivity.
+spectrum	"(none) 1 in our general ""spectrum"" ranking-which is weighted to to reflect the interests if the typical IEEE member."
+	
+bead	(noun) Simple bead count.
+drone	(noun) A guy hacked some wifi controlled lightbulbs by flying a drone past them.
+stunt	(noun) Let's recreate that stunt.
+sanitize	(verb) Always sanitize data from user.
+drawback	(noun) Physically there are no negative connected with this time of day, meaning the only drawbacks are likely to be psychological.
+approach	(noun) This Native approach has some drawbacks.
+effortless	Miyeon is effortless comedian.
+covet	(verb) She always coveted power but never quite achieved it.
+Tidy	(adjective) Tidy number.
+scoop	(noun) 5 is too many scoops.
+ampersand	(noun) An intersection type uses the ampersand (&) to separate each type.
+encompass	The any type encompass values of every possible type.
+debut	(noun) The debut of winter
+ditch	(noun) Famous project ditch TypeScript.
+deviate	(verb) The current pattern of weather deviates from the norm for this time if year.
+restrict	(verb) If you restrict something, you put a limit on it in order to reduce it or prevent it becoming too great.
+distinction	(noun) There's a clear distinction between the dialects spoken in the two region.
+hoist	(verb) If you hoist something heavy somewhere, you lift it or pull it up there.
+railroad	(verb) He would not railroad them.
+flatly	(adv) I flatly refused.
+sparring	(verb) With seniors it was more like co-creating or sparring; bringing different worldviews to bear on a problem, to produce something better than either of us would have thought of on our own.
+autonomous	(adjective) Autonomous decision.
+moisture	(noun) A plant watering system uses a sensor to measure soil moisture.
+intruder	(noun) A home alarm system detects the presence of intruders when activated.
+perseverance	(noun) Through hard work and perseverance, he worked his way up to the top.
+accessor	(noun) The class accessor.
+smurfing on	The pro smurfing on a noob account.
+spawn	(verb) When fish or animals such as frogs spawn, they lay their eggs.
+pending-approval	
+scrap	(verb) The oldest of the aircraft were scrapped
+feasible	(adjective) It seems this plan is feasible.
+gracefully	(adv) If wish to gracefully shut down your app, you can use the sequelize.close() to close all active connections.
+variation	(noun) Global tempurature variations over the last 140 years
+pictionary	(noun) Let's play a variation of pictionary
+congestion	(noun) Cases are being repeatedly delayed because of congestion in the courts.
+meteorology	(noun) Meteorology data is an example of.
+plot	(verb)Plotting data
+insight	(noun) From data to insight
+fentanyl	(noun)
+seize	"(verb) Even a fourth-grader knows that drugs getting ""seized"" at our border means the border is working."
+possess	(verb) Possessing fentanyl in California is illegal, and is punishable under California Health and Safety Code 11350.
+backbone	(noun) JavaScript, the backbone of modern web development, empowers developers to create dynamic and interactive websites.
+stumble	(noun/verb) Even experienced developers often encounter stumbling blocks in the form of common JavaScript errors.
+likewise	(adv) Likewise, if a repo, contains massive app without division, it's just a big repo.
+monolithic	(adjective) In fact, such a repo is prohibitively monolithic, which is often the first thing that comes to mind when people think of monorepos.
+enormous	(adjective) You were seeing just this enormous ascendency of the web platform.
+skeptical	(adjective) At first, anders was somewhat skeptical about TypeScript.
+conservative	(adjective) He's actually very conservative about creating new programming languages.
+guru	(noun) He is guru at programming.
+fascinate	(verb) Science has always fascinated me.
+juggernaut	(noun) IE team is juggernaut in terms of Microsoft politics.
+advocacy	(noun) She is renowned for her advocacy of human rights.
+ascendency	(noun) You were seeing just this enormous ascendency of the web platform
+renowned	(adjective) She is renowned for her advocacy of human right.
+wholesale	(verb) You can also wholesale reconfigure a winston.Logger instance using the configure method:
+ownership	(noun) The owner ship of bun is opeo source community.
+nudity	(noun) Content warning: Nudity
+captivate	(verb) Videos can captivate and inform.
+compensate	(verb) Node.js requires to mix & match languages to compensate for performance.
+unbearably	(adv) Not to say that Node.js is unbearably slow, but when you need any sort of computation on the backend or a high throughput of requests, Node.js isn’t a good choice.
+versatile	"(adjective) C# and the .NET runtime, in contrast, are fast and versatile."
+sizeable	(adjective) It has great documentation and a sizeable community.
+realm	(noun) Not as big as in the realm of JavaScript development, but still very big.
+accountable	(adjective) The maintainers aren’t exactly accountable if their hobby project caused damage to your startup, are they?
+sue	(verb) But you can complain, open a ticket and even sue Microsoft.
+plenty	(adv) Having said that, there are plenty of well-maintained libraries that have many contributors and are well-backed by big companies.
+compliant	(adjective) standards-compliant
+stretch	(verb) Stretching and have a big bite.
+chin	(noun) Even if her chin hurt, she can't stop eating.
+thrill	(noun) My heart was in between thrills and nervousness.
+praise	(verb/noun) Stiffened by praise
+costume	(noun) In the new costume
+stencil	(noun) Let's make a new stencil
+boast	(verb/noun) Sequelize boasts a comprehensive array of features for database modeliing and querying.
+cater	(verb) It caters to various coding styles by accommodating both promise and callback-based APIs.
+stiffen	(verb) Stiffened by praise
+prank	(verb/noun) Idol prank her fans in public.
+coalition	(noun) Opposition coalition
+opposition	(noun) Opposition coalition
+declarative	(adjective) Declarative rendering.
+requisite	(adjective/noun) He lacked the requisite skills for the job.
+prerequisite	(noun/adjective) Passing a written test is a prerequisite for taking the advanced course.
+grasp	(verb/noun) Grasp the basics and then come back!
+prior	(adjective) Prior experience with other frameworks helps, but is not required.
+diverse	(adjective) But the web is extremely diverse - the things we build on the web may vary drastically in form and scale.
+drastically	(adv.) But the web is extrememly diverse - the things we build on the web may vary drastically in form and scale.
+ambassador	(noun) Nuxt ambassador
+intimidating	(adjective) If you find these concepts intimidating, don't worry!
+despite	(prep.) Despite the flexibility, the core knowledge about how Vue works is shared across all these use cases.
+veteran	(noun) If you are a veteran, you can pick the optimal way to leverage Vue based on the problems you are trying to solve.
+leverage	(verb/noun) If you are a veteran, you can pick the optimal way to leverage Vue based on the problems you are trying to solve.
+impression	(noun) Bun - first impressions
+barely	(adv.) I barely finished hitting enter and it's done!?
+spin-offs	(noun) It spawned various spin-offs.
+forgery	(noun) Cross site request forgery attack.
+legitimate	(adjective) A cross-site request forgery attack (CSRF) attack is a security vulnerability capitalizing on trust between a web browser and a legitimate website.
+compromised	(noun/verb) Often, these attacks start when users click a link attacked to a deceptive email or land on a compromised website, unaware of logic executing in the background.
+crafty	(adjective) Crafty attackers manipulate browsers into executing malicious actions on websites where users authenticate themselves and log in.
+deceptive	(adjective) Often, these attacks start when users click a link attached to a deceptive email or land on a compromised website
+liability	(noun) The impact of attacks can range from financial losses and even legal liabilities.
+disclose	(verb) By tricking users into unintended actions, attackers can disclose sensitive data without the user’s knowledge.
+impersonate	(verb/noun) impersonate an action on behalf of a logged-in victim.
+inadvertently	(adv.) Unsecured web applications may inadvertently authroized these requests as legitimate user actions by attaching valid credentials.
+stake	The stakes are high for CSRF attacks
+susceptible	(adjective) Insufficiently protected access tokens, which are susceptible to cross-origin misuse in authenticating client-side requests.
+adequate	(adjective) This lack of adequate security compromised sensitive user data, resulting in financial loss, reputational damage, and legal repercussion.
+stutter	(noun/verb)  Stutter once again.
+parody	(noun/verb)This is a parody channel
+exaggeration	(noun) Include exaggeration in title.
+duelist	(noun) Sage has always been a duelist.
+hoodie	(noun)
+spreadsheet	(noun) You might have used spreadsheets like Excel to work with data before.
+oven	(noun) We left the windows  branch in the oven too long.
+tedious	(adjective) With languages like C and C++, you handle all this yourself which makes programming much more tedious, much hard you have to manage all.
+cunt	(noun) offensive word
+ought	(auxv.) This says you ought to have advanced programming skills or high-level mastery of such a complex framework to put it to good use.
+revenue	(noun) Imagine you want to explore movie revenues and you are given the following movies table:
+prep	(verb) Prepping the form
+compilation	(noun) Kpop idol MV compilation
+unhinged	(adjective) Yuna's lives are absolutely unhinged.
+repercussion	(noun) Resulting in financial loss reputational damage, and legal repercussions.
+halve	(verb) The problem shared is a problem halved.
+genitals	(noun) Breasts are a private part, like the genitals, and hence should not be exposed in public.
+pluralize	(verb) Component pluralization
+interpolation	(noun) Component Interpolation
+ternary	(adjective)  Ternary instead of it else statements
+shoelace	(noun) Tie up your shoelace before running!
+obsolete	(adjective/noun) The old site was a React codebase built on an obsoleted UI framework
+hatch	(noun) Escape hatches
+paradigm	(noun) Effects are an escape hatch from the React paradigm.
+restrictive	(noun) Hooks are more restrictive than other functions.
+sprinkle	(verb) A react componenet is a JS function that you can sprinkle with markup.
+suspense	(noun) Life do not need to see through something, with the space, with suspense, a subtle feeling that will more closely.
+pursuit	(noun) The pursuit of happiness
+misery	(noun) Compared with misery, happniess is a relatively unexplored terrain for social scientists.
+indexed	(verb/adjective) Between 1967 and 1994, 46,380 articles indexed in Psychological Abstracts mentioned depression, 36,851 anxiety, and 5,099 anger.
+pirate	(noun/verb) Pirates of the Caribbean.
+Caribbean	Pirates of Caribbean
+sophomore	(noun) Amazon has renewed Gen V for a sophomore season.
+coalesce	(verb) Coalesce operator
+perceive	(verb) Perceived performance.
+atmosphere	(noun) Atmosphere pressure. Working atmosphere.  The approaching examination created a tense atmosphere on the campus.
+hydrosphere	(noun) All the water of the earth's surface is included in the hydrosphere.
+lithosphere	(noun) The hydrosphere and the lithosphere together form the earth's surface.
+phobia	(noun) bundle phobia
+oxygen	(noun) Hydrogen and oxygen are gases.
+pyramid	(noun/verb) Pyramid of tests.
+oxide	(noun) Oxide is a part of our daily life.
+hydrogen	(noun) Two parts hydrogen, one part oxygen, you'll get water every time.
+carbon dioxide	(noun) Soft drinks usually contain carbon dioxide.
+crust	(noun) The crust on the snow was thick enough for us to walk on it.
+mantle	(noun) Parents often use mantles for their babies to keep warm.
+longitude	(noun) The captain determines the latitude and longitude of his ship.
+latitude	(noun) Our position is 40 degrees north latitude.
+enthusiast	(noun) Your'll find a friendly group of enthusiasts at all experience levels who are willing to chat about anything and everything related to Shoelace.
+misconception	(noun) A common misconception to an open source project is that you need to know how to code.
+refrain	(verb) I respectfully ask that you refrain from using AI-generated code when contributing to this project.
+Broaden sb's horizon	
+disastrous	(adjective) In the face of the disastrous military battle, they conceded that victory was no longer attainable, and agreed to a negotiated surrender.
+mishap	(noun) A mishap prevented him from attending the routine company meeting.
+catastrophic	(adjective) If the forecast had been wrong, the consequences could have been catastrophic.
+calamity	(noun) A hurricane would be a calamity for this low-lying coastal region. cause a calamity.
+hurricane	(noun) A hurricane would be a calamity for this low lying coastal region.
+coastal	(noun) A hurricane would be a calamity for this low lying coastal region.
+greenhouse	(noun) The flowers are grown in the green house. The greenhouse effect. A greenhouse gas.
+endanger	(verb) If you work hard without rest, you will endanger your health.
+jeopardise	(verb) If you are rude to the boss, your chances of success may be jeopardised.
+destructive	(adjective) Jealousy is an extremely destructive emotion.
+El Niño	(noun)
+phenomenon	(noun) Snow is an almost unknown phenomenon in Egypt. A natural phenomenon.
+pebble	(noun) The boy put his hand into the money bag and drew out a pebble.
+magnet	(noun) He picked all the pins up with a magnet.
+ore	(noun) This mountain area is rich in iron ore.
+mineral	(noun) China is rich in mineral resources.
+marble	(noun) They used marble to build the steps.
+quartz	(noun) Have you bought the quartz clock?
+granite	(noun) His grave is made of granite. Bite on granite.
+gust	(noun) A gust of wind blew the leaves off the trees.
+breeze	(noun) We are enjoying the cool breeze that comes from the lake.
+grave	(noun) His grave is made of granite.
+monsoon	(noun) The monsoon brings rain to us. monsoon season.
+gale	(noun) We got our roof blown off in a gale last night.
+tornado	(noun) When a tornado touches the ground, it does a lot of damage.
+typhoon	(noun) The typhoon is gathering strength.
+volcano	(noun) The volcano erupted and two small towns were buried under metres of hot ash, mud and bits of molten rock.
+erupt	(verb) Hot lava erupted from the crust. eruption (noun)
+magma	(noun) Some types of minerals are made when magma cools and solidifies.
+thermodynamic	(adjective) His theory violates current thermodynamic laws.
+smog	(noun) This smog was so bad that schoolchildren were advised to stay indoors.
+fume	(noun/verb) Petrol | fumes from cars are poisoning the atmosphere.
+mist	(noun) She could hardly recognise her son through a mist of tears.
+lava	(noun) Hot lava erupted from the crust.
+hot ash	(noun)
+molten	(noun) Bits of molten rock.
+slightly	(adv) It's slightly difference.
+tsunami	(noun) A terrible tsunami followed the earthquake.
+interchangeable	(adjective) We use these terms interchangeable
+drought	(noun) Many areas in Africa have suffered severe drought this year.
+torrent	(noun) A torrent of water poured down the mountain.
+seismic	(adjective) This discovery of seismic activity suggests geological activity could provide large amounts of heat and minerials. A seismic wave.
+avalanche	(noun) Yesterday's avalanche destroyed several trees.
+terrain	(noun) He climbed a tree to view the surrounding terrain.
+continent	(noun) It is generally thought that columbus discovered the American continents. Continental.
+cliff	(noun) The narrow path leads to a wooden hut on the cliff.
+landscape	(noun) The trees and the mountains made the landscape very beautiful.
+glacier	(noun) The glacier dislocated the great stones.
+swamp	(noun) In the swamp, we were beset by mosquitoes.
+delta	(noun) The nile delta used to be a fertile land.
+mosquito	(noun) In the swamp, we were beset by mosquitoes.
+beset	(verb/noun) In the swamp, we were beset by mosquitoes.
+fertile	(noun) The nile delta used to be a fertile land.
+plain	(noun/adjective) Once there were 70m buffalo roaming the grate plains.
+plateau	(noun) The atmosphere is thin on the plateau.
+oasis	(noun) Oasis symbolises a hope in desert areas.
+globe	(noun) There are people in almost every habitable part of this globe. Travel around the globe.
+hemisphere	(noun) In the northern hemisphere.
+equator	(noun) The equator is an imagnary line around the middle of the earth.
+arctic	(adjective) The polar bear's habitat is the icy waters of the arctic. The arctic ocean.
+antarctic	(adjective) Because of the extreme cold, the environment in the Antarctic is uniquely fragile.
+pole	(noun) English is spoken from pole to pole. The south pole.
+polar	(adjective) In these polar regions, the balance of nature has already been disrupted. A polar bear.
+axis	(noun) The earth's axis is the line between the North and the South Poles.
+deteriorate	(verb) Relations between the two countries have deteriorated sharply in recent weeks. Deterioration.
+derive	(adjective) The derived state in React just like the computed property in vue instance
+aggravate	(verb) Grief aggravated her illness. gravity/aggregate
+degrade	(verb) A dishonest action like that will degrade you. degradation
+erode	(verb) The waves erode the rocks on the shore. erosion
+grief	(noun) Grief aggravated her illness.
+shore	(noun) The waves erode the rocks on the shore.
+agnostic	(noun) Framework-agnostic front-end tooling.
+mediterranean.	(adjective) The dish is a cross between Asian and Mediterranean food.
+Atlantic	(adjective) The altantic coast is within sight of the hotel.
+pacific	(adjective) What a beautiful and pacific place this is. Asian-Pacific region. pacify
+marine	(adjectivce/noun) It is ture that a lot of people like marine plants as their food.
+gulf	(noun) The gulf extends northward.
+coast	(noun) He is going to live by the coast for the sake of his health.
+tide	(noun) The gravitational attraction between the moon and the earth cause the tide. tidal At low tide. Time and tide wait for no man.
+current	(noun) He was swept away by the current.
+brook	(noun) Before we drink at a brook, it's good to know its source.
+stream	(noun) On either bank of the stream stand rows of willow trees.
+shallow	(adjective) The sea is shallow here. Shallow-hearted.
+superficial	(adjective) Superficial scratches can be easily removed. A superficial injury.
+sandy	(adjective) We walked across the fields on the sandy path.
+stony	(adjective) The ground in this part of the country is poor and stony.
+steep	(adjective) A long steep path leads to a teahouse with a grand view of the sea.
+Oceania	(noun) Oceania is a separate landmass, but it is separated from Asia by shallow water.
+peninsula	(noun) His house is located on the tip of the peninsula.
+climate	(noun) The current political climate in that country is favourable for foreign investment. In the present economic climate.
+enigma	(noun) It has been kind of an enigma.
+meteorology	(noun) Nowadays, few people like to study meteorology. Meteorological.
+mild	(adjective) The weather is mild today, it is neither hot nor cold.
+heating	(noun) The workers are installing a heating system. central heating.
+moderate	(adjective) The wind was strong all day, but it moderated in the evening. A moderate climate.
+thermal	(adjective) The thermal enegy has become more and more important.
+tropics	(noun) He lives in the tropics Tropical In the tropics.
+arid	(adjective) It is difficult to grow fruit in arid desert areas. An arid desert.
+moist	(adjective) His eyes were moist with tears moisture
+damp	(adjective) The damp match won't strike. dampness. A damp climate.
+humid	(adjetive) The milk powder has lumped together because my home is so humid. humiditiy
+lump	(noun) The milk powder has lumped together because my home is so humid.
+powder	(noun)The milk powder has lumped together because my home is so humid.
+underrate	(verb) MAMAMOO is most underrate.
+criteria	(noun) The four criteria of split components.
+snowy	(adjective) The snowy weather lasted the whole time we were there.
+frost	(noun) Sweet potatoes decayed after the frost. frosty.
+hail	(noun/verb) It hailed during the night.
+thaw	(verb) The sun thawed the ice and melted the snow thaw sth. out
+chill	(verb) The bad news cast a chill over the whole family. chilly chilly enthusiasm
+freeze	(verb/noun) The weatherman predicted a freeze for tonight. freezer freezing
+frigid	(adjective) Hohhot is a frigid city in winter. the frigid zones. a frigid climate
+decay	(verb) Sweet potatoes decayed after the frost
+polaris	(noun) fter the release of Cyberpunk 2077: Phantom Liberty, CD Projekt Red has thrown half of its forces to the new installment of The Witcher series, which is The Witcher 4, or Polaris.  target
+saga	"(noun) ""The Witcher 4 won't be out for some years, and it'll be a long time since the previous one, so we cannot just target the audience already fond of the saga."
+escort	(noun/verb) Escort her.
+tremble	(verb/noun) There was a tremble in her voice. tremble all over.
+shiver	(verb) She shivered because she was worried and afraid. Shiver with cold.
+thunder	(noun/verb) An express train thundered through the station.
+downpour	(noun) For the past six hours, the downpour had been continuous.
+rainfall	(noun) There have been four years of below-average rainfall.
+sprinkle	(verb) We've only had a few sprinkles of rain recently.
+reconciliation	(noun) It is important to remember that the reconciliation algorithm is an implementation detail
+shower	(noun) The weatherman predicts showers this afternoon.
+celsius	(adjective) The maximum temperature in July may be 36 degrees celsius.
+forecast	(noun/verb) The recent statement of the president forecasts a change in the situation.
+peak	(noun/verb) The mountain peaks are covered with snow all year round. A mountain peak
+range	(noun) A range of hills rose on our left. in the range of
+ridge	(verb/noun) The sky above the ridge of the mountains brightened.
+slope	(verb/noun) He ran up the slope to the top of the hill.
+valley	(noun) The valley was hidden from view in the mist. In a valley.
+hillside	(noun) The path steepened as they climbed the hillside.
+overlook	(verb) The house on the hill overlooks the village. be easily overlooked.
+eastern	(adjective) The eastern situation is similarly intense.
+oriental	(adjective) She has studied the cultures of oriental countries.
+inevitable	(adjective) Such a difficult operation may not succeed, but it's an inevitable gamble. evitable
+irreversible	(adjective) He suffered irreversible brain damage from the incident.
+irregularly	(adv) The patient is breathing irregularly. regularly.
+inappropriate	(adjective) Your bright red coat would be quite inappropriate. appropriate.
+abnormal	(adjective) EI Niño will result in the abnormal weather. an abnormal climate.
+sediment	(noun) The sediment of coffee will settle.
+silt	(noun/verb) River sediments gradually silted up the harbour.
+muddy	(adjective) We left the car and struck out along the muddy track. mud.
+clay	(noun) Bricks and dishes are made from various kinds of clay.
+schematic	(noun/adjective)  Generates and/or modifies files based on a schematic.
+mutually	(adv) These three conditions here are mutually exclusive.
+hierarchy	(noun) We can change the component location, but not break the hierarchy of component.
+harbour	(noun/verb) River sediments gradually silted up the harbour.
+rural	(adjective) The disease occurs most frequently in rural areas. rural areas.
+suburb	(noun) They proposed setting up a school in the suburbs. suburban
+outskirts	(noun) We live on the outskirts of the city.
+encroach	(verb) They have promised that the development will not encroach on public land.
+sovereign	(noun) Sovereign territory.
+territory	(noun)Sovereign territory.
+squeeze	(verb) Squeezing the border of this tiny country.
+spaghetti	(noun) As your project grows, you'll find that things can very easily turn into spaghetti
+desolate	(adjective) So how should they escape from these desolate canyons?
+distant	(adjective) It snows all year round in that distant little village. distance the distant past
+adjacent	(adjective) We stayed in adjacent rooms.
+toxic	(adjective) All medicines are toxic. toxic waste
+pollution	(noun) Wastewater from the factory is the main cause of pollution in local rivers. pollute pollution control
+boilerplate	(noun)
+bulb	(noun) light bulb
+nepotist	(noun) (adjective) nepotistic
+clinical	(adjective) His videos are very simple but very clinical.
+canyons	(noun) So how should they escape from these desolate canyons?
+cohesive	(adjective) It just feels cohesive to the nestjs framework.
+pollutant	(noun) Coal is a heavy pollutant. atmospheric pollutants
+contaminate	(verb) The river was contaminated with waste.
+geology	(noun) He devoted all his life to the research of the agricultural geology. geologicial
+margin	(noun) There is no margin for error in our plan Allow a greater margin of...
+fringe	(noun/adjective) We feel it's pretty good and we also offer some good fringe benefits.
+tailored	(adjective) Prisma client is an auto-generated and type-safe query builder that's tailored to your data.
+prominent	(adjective) NestJS one of the prominent Node.js framework, and it has recently gained a lot of developer love and traction.
+plate	(noun) It is generally accepted that earthquakes are cause by two tectonic plates bumping each other.
+debris	(noun) We are searching for his corpse among the debris after the explosion.
+crack	(verb) The door opened just a crack. Cause a crack
+splendid	(adjective) You're all doing a splendid job; keep up the good work. a splendid chance.
+grand	(adjective) He was born in the purple and was brought up in the grand palace.
+tectonic	(adjective) It is generally accepted that earthquakes are cause by two tectonic plates bumping each other.
+corpse	(noun) We are searching for his corpse among the debris after the explosion
+redumentary	(adjective) Then, you built a rudimentary REST API for the backend of a blog app.
+malformed	(adjective) This can help prevent malformed data and abuse of your API.
